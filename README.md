@@ -28,6 +28,7 @@ Create outlets for the UIImageView, UIButton (if you added one), and UILabel (if
 Create Actions:
 
 If you added a button, create an action for it to simulate shaking the Magic 8 Ball.
+
 Step 5: Implementing the Magic 8 Ball Logic
 Showing Answers:
 
