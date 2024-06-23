@@ -32,6 +32,7 @@ Define an array of answer images in your view controller:
 Randomly Selecting Answers:
 
 Create a function to randomly select an answer image and display it:
+
 Step 6: Testing Your App
 Run Your App:
 Connect your iPhone or use a simulator to run the app.
